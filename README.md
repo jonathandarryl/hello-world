@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-this is a readme for Hallo Welt. 
+Readme for the first repo.
+<br/><br/>
+:) ccsnoopy
